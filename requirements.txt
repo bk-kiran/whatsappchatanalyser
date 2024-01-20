@@ -1,8 +1,8 @@
-emoji==2.9.0
-matplotlib==3.7.2
-nltk==3.8.1
-pandas==2.0.3
-seaborn==0.13.1
-streamlit==1.30.0
-wordcloud==1.9.3
-SentimentIntensityAnalyzer
+streamlit
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+emoji
+nltk
