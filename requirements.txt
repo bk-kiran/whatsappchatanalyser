@@ -1,9 +1,9 @@
 streamlit
-matplotlib.pyplot
+pyplot
 seaborn
 re
 pandas
-nltk.sentiment.vader
+nltk
 wordcloud
 collections
 emoji
